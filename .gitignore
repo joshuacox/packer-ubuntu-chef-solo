@@ -1,5 +1,9 @@
 # Cache objects
 packer_cache/
+packer/packer_cache/
+# Berkshelf
+packer/vendor/
+packer/Berksfile.lock
 
 # For built boxes
 *.box
