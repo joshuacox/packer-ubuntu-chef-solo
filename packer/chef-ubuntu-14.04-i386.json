@@ -194,6 +194,7 @@
         "cookbook_paths": [
           "vendor/cookbooks"
         ],
+        "roles_path": "chef/roles",
         "run_list": ["php"],
         "prevent_sudo": false,
         "skip_install": false
